@@ -1,0 +1,31 @@
+{
+    "labels": true,
+    "version": "1",
+    "statements": [
+        {
+            "qualifiers": true,
+            "id": 0,
+            "simple": true,
+            "rank": "non-deprecated",
+            "full": true,
+            "references": true
+        }
+    ],
+    "meta": true,
+    "aliases": true,
+    "sitelinks": true,
+    "descriptions": true,
+    "entities": [
+        {
+            "type": "item",
+            "properties": [
+                {
+                    "type": "entityid",
+                    "rank": "non-deprecated",
+                    "value": "Q13442814",
+                    "property": "P31"
+                }
+            ]
+        }
+    ]
+}
